@@ -389,7 +389,8 @@
       "potato": "2025-04-27 03:54:20 +0000",
       "mutton": "2025-04-27 03:30:06 +0000",
       "bread": "2025-04-27 04:03:27 +0000",
-      "rotten_flesh": "2025-04-27 03:30:38 +0000"
+      "rotten_flesh": "2025-04-27 03:30:38 +0000",
+      "carrot": "2025-04-29 01:16:41 +0000"
     },
     "done": false
   },
@@ -1697,6 +1698,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-29 01:15:43 +0000",
       "minecraft:zombie": "2025-04-27 17:44:11 +0000"
     },
     "done": false
@@ -1956,6 +1958,36 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-04-27 22:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-29 01:18:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-29 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-29 01:15:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-04-29 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-04-29 01:18:09 +0000"
     },
     "done": true
   },

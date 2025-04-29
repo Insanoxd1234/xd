@@ -90,3 +90,8 @@
 [29Apr2025 01:14:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
 [29Apr2025 01:14:29.112] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
 [29Apr2025 01:15:30.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4646, l='ServerLevel[world]', x=-325.24, y=69.00, z=-469.33] died, message: 'Farmer was slain by Dread Knight'
+[29Apr2025 01:18:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Take Aim]
+[29Apr2025 01:18:15.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1986, y=66, z=-723} BlockPos{x=-1985, y=66, z=-722}
+[29Apr2025 01:18:20.158] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[29Apr2025 01:18:20.171] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[29Apr2025 01:18:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Snow Leopard
