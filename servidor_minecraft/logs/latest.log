@@ -95,3 +95,6 @@
 [29Apr2025 01:18:20.158] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
 [29Apr2025 01:18:20.171] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [29Apr2025 01:18:28.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Snow Leopard
+[29Apr2025 01:32:43.905] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[29Apr2025 01:32:43.906] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[29Apr2025 01:32:43.906] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
