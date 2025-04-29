@@ -35,13 +35,17 @@
       "minecraft:snowy_plains": "2025-04-27 03:26:06 +0000",
       "minecraft:stony_shore": "2025-04-27 03:25:57 +0000",
       "minecraft:snowy_taiga": "2025-04-27 03:11:48 +0000",
+      "minecraft:dripstone_caves": "2025-04-29 02:25:49 +0000",
       "minecraft:grove": "2025-04-27 03:34:45 +0000",
       "minecraft:swamp": "2025-04-27 18:26:41 +0000",
+      "minecraft:jagged_peaks": "2025-04-29 02:18:39 +0000",
       "minecraft:cold_ocean": "2025-04-27 22:33:26 +0000",
       "minecraft:forest": "2025-04-27 16:57:51 +0000",
+      "minecraft:lush_caves": "2025-04-29 02:23:12 +0000",
       "minecraft:ice_spikes": "2025-04-27 03:43:52 +0000",
       "minecraft:frozen_ocean": "2025-04-27 03:33:51 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-29 01:39:55 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-29 02:18:11 +0000",
       "minecraft:snowy_beach": "2025-04-27 03:25:19 +0000",
       "minecraft:flower_forest": "2025-04-27 18:48:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 18:23:18 +0000",
@@ -408,6 +412,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-04-27 03:36:56 +0000",
+      "sweet_berries": "2025-04-29 02:17:13 +0000",
       "beef": "2025-04-27 04:17:01 +0000",
       "porkchop": "2025-04-27 03:58:08 +0000",
       "apple": "2025-04-27 17:02:07 +0000",
@@ -415,6 +420,7 @@
       "mutton": "2025-04-27 18:35:54 +0000",
       "bread": "2025-04-27 03:53:12 +0000",
       "rotten_flesh": "2025-04-27 03:27:55 +0000",
+      "salmon": "2025-04-29 02:25:09 +0000",
       "cooked_chicken": "2025-04-27 16:56:22 +0000"
     },
     "done": false
@@ -3229,6 +3235,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-04-29 02:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
@@ -3238,6 +3250,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_stairs": {
     "criteria": {
       "has_item": "2025-04-29 01:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
     },
     "done": true
   },
@@ -3268,6 +3286,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-04-29 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
     },
     "done": true
   },
@@ -3307,6 +3331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
@@ -3316,6 +3346,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
     },
     "done": true
   },
@@ -3391,6 +3427,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
@@ -3415,9 +3463,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
     },
     "done": true
   },
@@ -3427,9 +3487,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-29 02:23:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-29 02:23:32 +0000"
     },
     "done": true
   },
@@ -3487,6 +3559,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-29 01:48:08 +0000"
@@ -3535,9 +3619,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
     },
     "done": true
   },
@@ -3613,15 +3709,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-04-29 01:13:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-29 02:23:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-29 01:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-29 02:21:51 +0000"
     },
     "done": true
   },
@@ -3652,6 +3772,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-04-29 01:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-29 02:23:32 +0000"
     },
     "done": true
   },

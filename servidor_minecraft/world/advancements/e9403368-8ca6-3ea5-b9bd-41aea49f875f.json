@@ -30,6 +30,7 @@
       "minecraft:taiga": "2025-04-27 18:15:20 +0000",
       "minecraft:deep_ocean": "2025-04-27 18:18:49 +0000",
       "minecraft:frozen_river": "2025-04-27 03:35:13 +0000",
+      "minecraft:river": "2025-04-29 02:14:05 +0000",
       "minecraft:snowy_plains": "2025-04-27 03:35:22 +0000",
       "minecraft:stony_shore": "2025-04-27 04:07:14 +0000",
       "minecraft:snowy_taiga": "2025-04-27 03:25:57 +0000",
@@ -1700,7 +1701,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-29 01:15:43 +0000",
-      "minecraft:zombie": "2025-04-27 17:44:11 +0000"
+      "minecraft:zombie": "2025-04-27 17:44:11 +0000",
+      "minecraft:drowned": "2025-04-29 01:58:08 +0000"
     },
     "done": false
   },
@@ -1980,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-29 01:58:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-04-29 01:15:43 +0000"
@@ -1998,15 +2006,33 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-04-29 02:14:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-04-29 01:52:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 02:32:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
       "has_item": "2025-04-29 01:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-29 02:32:30 +0000"
     },
     "done": true
   },
