@@ -106,3 +106,22 @@
 [30Apr2025 01:53:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [The Cutest Predator]
 [30Apr2025 01:53:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [What a Deal!]
 [30Apr2025 01:55:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[30Apr2025 01:56:35.744] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[30Apr2025 01:56:35.746] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 01:56:40.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 drowned
+[30Apr2025 01:56:40.746] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 01:57:09.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Hot Stuff]
+[30Apr2025 01:57:46.639] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[30Apr2025 01:57:46.640] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 01:57:54.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was doomed to fall by Ice Dragon
+[30Apr2025 01:58:19.220] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[30Apr2025 01:58:19.252] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[30Apr2025 02:00:20.216] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15194, l='ServerLevel[world]', x=636.50, y=51.00, z=-637.50]
+[30Apr2025 02:04:39.923] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[30Apr2025 02:04:39.925] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 02:04:44.022] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[30Apr2025 02:04:44.061] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[30Apr2025 02:04:50.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 burned to death
+[30Apr2025 02:04:50.726] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 02:04:50.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 went up in flames
+[30Apr2025 02:04:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
