@@ -26,6 +26,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-27 03:39:57 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-30 02:10:22 +0000",
       "minecraft:taiga": "2025-04-27 04:01:07 +0000",
       "minecraft:frozen_river": "2025-04-27 01:31:18 +0000",
       "minecraft:cherry_grove": "2025-04-27 17:46:02 +0000",
@@ -35,11 +36,13 @@
       "minecraft:stony_shore": "2025-04-27 01:20:32 +0000",
       "minecraft:snowy_taiga": "2025-04-27 01:06:47 +0000",
       "minecraft:grove": "2025-04-27 03:39:58 +0000",
+      "minecraft:jagged_peaks": "2025-04-30 02:08:58 +0000",
       "minecraft:cold_ocean": "2025-04-27 17:28:25 +0000",
       "minecraft:forest": "2025-04-27 17:48:19 +0000",
       "minecraft:ice_spikes": "2025-04-27 03:44:01 +0000",
       "minecraft:frozen_ocean": "2025-04-27 03:32:33 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-30 01:55:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-30 02:09:47 +0000",
       "minecraft:snowy_beach": "2025-04-27 01:36:57 +0000",
       "minecraft:flower_forest": "2025-04-27 22:20:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 18:24:00 +0000",
@@ -798,7 +801,8 @@
       "minecraft:creeper": "2025-04-27 01:43:58 +0000",
       "minecraft:witch": "2025-04-27 22:36:17 +0000",
       "minecraft:enderman": "2025-04-27 02:32:17 +0000",
-      "minecraft:zombie": "2025-04-27 01:44:48 +0000"
+      "minecraft:zombie": "2025-04-27 01:44:48 +0000",
+      "minecraft:zombie_villager": "2025-04-30 02:11:22 +0000"
     },
     "done": false
   },
@@ -2844,9 +2848,33 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-30 02:09:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-30 01:53:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-30 02:06:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-04-30 02:09:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-30 02:06:18 +0000"
     },
     "done": true
   },
@@ -2862,6 +2890,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-30 02:06:18 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-04-30 01:52:47 +0000"
@@ -2871,6 +2905,12 @@
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
       "has_item": "2025-04-30 01:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-30 02:06:18 +0000"
     },
     "done": true
   },
@@ -2919,6 +2959,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-04-30 01:53:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-30 02:06:18 +0000"
     },
     "done": true
   },

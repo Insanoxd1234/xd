@@ -125,3 +125,13 @@
 [30Apr2025 02:04:50.726] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
 [30Apr2025 02:04:50.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 went up in flames
 [30Apr2025 02:04:59.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[30Apr2025 02:06:22.072] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[30Apr2025 02:06:22.074] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[30Apr2025 02:09:10.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Isn't It Iron Pick]
+[30Apr2025 02:10:15.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:52024] logged in with entity id 19458 at (-329.30000001192093, 63.0, -387.4866303595052)
+[30Apr2025 02:10:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[30Apr2025 02:10:15.621] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[30Apr2025 02:12:22.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[30Apr2025 02:12:22.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[30Apr2025 02:12:28.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[30Apr2025 02:12:28.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
