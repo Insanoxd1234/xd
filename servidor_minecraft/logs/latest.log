@@ -95,3 +95,14 @@
 [30Apr2025 01:27:45.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Neighborhood Brawl]
 [30Apr2025 01:32:59.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3936, l='ServerLevel[world]', x=881.70, y=70.00, z=-753.47] died, message: 'Unemployed was slain by Zombie'
 [30Apr2025 01:45:12.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Smoke On The Water]
+[30Apr2025 01:51:20.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:60736] logged in with entity id 11246 at (-2045.0893745039057, 64.0, -721.7127173183959)
+[30Apr2025 01:51:20.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[30Apr2025 01:51:20.257] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[30Apr2025 01:51:34.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[30Apr2025 01:52:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[30Apr2025 01:52:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[30Apr2025 01:52:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [It Belongs in a Museum]
+[30Apr2025 01:52:50.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Once Upon a Cave]
+[30Apr2025 01:53:20.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [The Cutest Predator]
+[30Apr2025 01:53:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [What a Deal!]
+[30Apr2025 01:55:53.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
