@@ -30,6 +30,7 @@
       "minecraft:taiga": "2025-04-27 18:15:20 +0000",
       "minecraft:deep_ocean": "2025-04-27 18:18:49 +0000",
       "minecraft:frozen_river": "2025-04-27 03:35:13 +0000",
+      "minecraft:birch_forest": "2025-05-01 03:02:07 +0000",
       "minecraft:river": "2025-04-29 02:14:05 +0000",
       "minecraft:snowy_plains": "2025-04-27 03:35:22 +0000",
       "minecraft:stony_shore": "2025-04-27 04:07:14 +0000",
@@ -43,6 +44,8 @@
       "minecraft:deep_frozen_ocean": "2025-04-27 03:40:57 +0000",
       "minecraft:ocean": "2025-04-27 18:18:32 +0000",
       "minecraft:snowy_beach": "2025-04-27 03:39:32 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-01 03:00:58 +0000",
+      "minecraft:meadow": "2025-05-01 02:57:25 +0000",
       "minecraft:plains": "2025-04-27 03:42:06 +0000"
     },
     "done": false
@@ -392,6 +395,7 @@
       "bread": "2025-04-27 04:03:27 +0000",
       "rotten_flesh": "2025-04-27 03:30:38 +0000",
       "salmon": "2025-04-29 01:55:02 +0000",
+      "cod": "2025-05-01 02:53:25 +0000",
       "carrot": "2025-04-29 01:16:41 +0000"
     },
     "done": false
@@ -2033,6 +2037,48 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-29 02:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-30 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-30 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-30 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-01 02:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-05-01 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-01 02:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-01 02:52:53 +0000"
     },
     "done": true
   },
