@@ -8477,3 +8477,39 @@
 [02May2025 18:40:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
 [02May2025 18:40:12.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
 [02May2025 18:40:27.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:41:10.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:41:13.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:41:45.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Ambush]
+[02May2025 18:41:53.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:41:55.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:42:24.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:43:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:43:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:44:14.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[02May2025 18:44:16.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:44:27.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:44:28.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:44:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:45:24.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:46:03.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Goku177]
+[02May2025 18:46:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:46:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:46:51.064] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 18:46:51.068] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 18:47:04.164] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[02May2025 18:47:04.165] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 18:47:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 went off with a bang
+[02May2025 18:47:13.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 hit the ground too hard
+[02May2025 18:47:49.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Elmegabyt12]
+[02May2025 18:49:03.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/104870, l='ServerLevel[world]', x=-2843.05, y=146.00, z=-898.63] died: Gearling fell from a high place
+[02May2025 18:49:57.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105750, l='ServerLevel[world]', x=-2869.88, y=213.00, z=-894.67] died: Gearling was slain by Elmegabyt12
+[02May2025 18:50:04.713] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 18:50:04.716] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 18:50:16.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/105752, l='ServerLevel[world]', x=-2864.16, y=212.00, z=-895.21] died: Gearling was slain by Goku177
+[02May2025 18:50:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:50:43.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:50:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:50:44.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:50:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[02May2025 18:50:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:50:53.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
