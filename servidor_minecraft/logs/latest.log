@@ -8578,3 +8578,61 @@
 [02May2025 19:36:34.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Re-Extinct]
 [02May2025 19:37:26.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Tastes Like Chicken]
 [02May2025 19:40:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Re-Extinct]
+[02May2025 19:45:35.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Swaggy Meal Mommy Made It]
+[02May2025 19:45:39.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Swaggy Meal Mommy Made It]
+[02May2025 19:48:58.485] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 19:48:58.487] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 19:50:28.483] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 19:50:28.485] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 19:59:17.150] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 19:59:17.151] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 20:00:05.008] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[02May2025 20:00:05.017] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 20:00:07.812] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 20:00:07.823] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 20:00:14.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Vallumraptor
+[02May2025 20:00:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Vallumraptor
+[02May2025 20:00:54.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 was kicked for floating too long!
+[02May2025 20:00:54.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Flying is not enabled on this server
+[02May2025 20:00:54.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[02May2025 20:00:54.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 was kicked for floating too long!
+[02May2025 20:00:54.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Flying is not enabled on this server
+[02May2025 20:00:54.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[02May2025 20:01:06.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:51807] logged in with entity id 129359 at (-7333.0656105156895, 8.28549238931868, -4826.170338032629)
+[02May2025 20:01:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[02May2025 20:01:06.538] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[02May2025 20:01:13.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 was kicked for floating too long!
+[02May2025 20:01:13.213] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Flying is not enabled on this server
+[02May2025 20:01:13.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[02May2025 20:01:25.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:51814] logged in with entity id 129690 at (-7335.553763899419, -6.787957342768385, -4817.669067901741)
+[02May2025 20:01:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[02May2025 20:01:25.823] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[02May2025 20:01:26.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@717c509e[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:60802) lost connection: Disconnected
+[02May2025 20:01:44.467] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b156b0e[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:60806) lost connection: Disconnected
+[02May2025 20:01:48.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:60812] logged in with entity id 130173 at (-7325.232474187193, 2.1499898341915396, -4843.075518906624)
+[02May2025 20:01:48.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[02May2025 20:01:48.769] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[02May2025 20:01:55.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 was kicked for floating too long!
+[02May2025 20:01:55.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Flying is not enabled on this server
+[02May2025 20:01:55.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[02May2025 20:02:26.770] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@625a3eb4[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:60820) lost connection: Disconnected
+[02May2025 20:02:53.470] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b033045[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:60823) lost connection: Disconnected
+[02May2025 20:03:10.217] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f100de1[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:60828) lost connection: Disconnected
+[02May2025 20:03:16.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:60029] logged in with entity id 131020 at (-7322.639256785113, -21.984734717273014, -4838.893757832663)
+[02May2025 20:03:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[02May2025 20:03:16.242] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[02May2025 20:06:56.823] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 20:06:56.825] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 20:07:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 fell from a high place
+[02May2025 20:08:24.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 was kicked for floating too long!
+[02May2025 20:08:24.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Flying is not enabled on this server
+[02May2025 20:08:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[02May2025 20:08:35.669] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:51927] logged in with entity id 134839 at (-7307.310700734803, 6.324766915088476, -4826.309545729105)
+[02May2025 20:08:35.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[02May2025 20:08:35.685] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[02May2025 20:15:17.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Timed out
+[02May2025 20:15:17.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[02May2025 20:19:53.766] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3499e2cd[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:49891) lost connection: Disconnected
+[02May2025 20:20:00.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:49896] logged in with entity id 138085 at (-7600.538152210213, -30.0, -4868.953455224192)
+[02May2025 20:20:00.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[02May2025 20:20:00.329] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
