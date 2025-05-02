@@ -8326,3 +8326,8 @@
 [02May2025 16:11:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Goku177's game mode to Survival Mode
 [02May2025 16:11:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
 [02May2025 16:11:36.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Elmegabyt12 to Goku177
+[02May2025 16:22:39.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has reached the goal [Tyrant King]
+[02May2025 16:24:04.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Strictly Medicinal Purposes]
+[02May2025 16:27:25.609] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 16:27:25.618] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 16:27:26.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Town of Bedrock]

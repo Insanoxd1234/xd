@@ -4153,6 +4153,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2025-05-02 16:22:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_silver_metal_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-02 15:14:31 +0000"

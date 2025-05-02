@@ -2145,6 +2145,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-05-02 16:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-02 15:12:38 +0000"
@@ -2178,6 +2184,12 @@
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-05-02 15:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-02 16:24:03 +0000"
     },
     "done": true
   },
