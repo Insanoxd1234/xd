@@ -31,6 +31,7 @@
       "minecraft:deep_ocean": "2025-04-27 18:18:49 +0000",
       "minecraft:frozen_river": "2025-04-27 03:35:13 +0000",
       "minecraft:birch_forest": "2025-05-01 03:02:07 +0000",
+      "minecraft:beach": "2025-05-02 17:58:26 +0000",
       "minecraft:river": "2025-04-29 02:14:05 +0000",
       "minecraft:snowy_plains": "2025-04-27 03:35:22 +0000",
       "minecraft:stony_shore": "2025-04-27 04:07:14 +0000",
@@ -397,6 +398,7 @@
       "bread": "2025-04-27 04:03:27 +0000",
       "rotten_flesh": "2025-04-27 03:30:38 +0000",
       "salmon": "2025-04-29 01:55:02 +0000",
+      "dried_kelp": "2025-05-02 18:00:45 +0000",
       "cod": "2025-05-01 02:53:25 +0000",
       "carrot": "2025-04-29 01:16:41 +0000"
     },
@@ -2157,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-02 17:26:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tree_star": {
     "criteria": {
       "tree_star": "2025-05-02 15:16:05 +0000"
@@ -2247,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:04:13 +0000"
@@ -2268,6 +2282,18 @@
   "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
     },
     "done": true
   },
@@ -2307,6 +2333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-05-02 18:00:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:04:13 +0000"
@@ -2316,6 +2348,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-02 16:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
     },
     "done": true
   },
@@ -2337,6 +2375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-02 16:55:26 +0000"
@@ -2346,6 +2390,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-02 16:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
     },
     "done": true
   },
@@ -2370,6 +2420,18 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
     },
     "done": true
   },
@@ -2424,6 +2486,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 17:33:36 +0000"
     },
     "done": true
   },
