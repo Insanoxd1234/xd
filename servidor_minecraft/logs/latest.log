@@ -8649,3 +8649,8 @@
 [02May2025 21:22:49.813] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [02May2025 21:23:20.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/152005, l='ServerLevel[world]', x=-2046.30, y=62.00, z=-727.30] died, message: 'Librarian was slain by Zombie'
 [02May2025 21:23:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Zombie
+[02May2025 22:15:43.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
+[02May2025 22:15:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[02May2025 22:20:44.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:61211] logged in with entity id 164831 at (-2048.007990247041, 64.0, -725.0839936925456)
+[02May2025 22:20:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[02May2025 22:20:44.929] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
