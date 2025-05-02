@@ -8551,3 +8551,27 @@
 [02May2025 19:07:37.466] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
 [02May2025 19:08:06.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Gearling
 [02May2025 19:08:12.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Gearling
+[02May2025 19:12:00.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/111509, l='ServerLevel[world]', x=-2850.85, y=190.00, z=-850.85] died: Gearling was slain by Goku177
+[02May2025 19:12:14.613] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 19:12:14.616] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 19:12:22.014] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[02May2025 19:12:22.017] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 19:12:22.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/112416, l='ServerLevel[world]', x=-2858.38, y=195.00, z=-853.72] died: Gearling was slain by Goku177
+[02May2025 19:12:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Gearling
+[02May2025 19:12:39.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Gearling
+[02May2025 19:13:13.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113088, l='ServerLevel[world]', x=-2854.57, y=195.00, z=-856.53] died: Gearling was slain by Goku177
+[02May2025 19:13:18.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113087, l='ServerLevel[world]', x=-2860.07, y=195.00, z=-844.93] died: Gearling was slain by Goku177
+[02May2025 19:13:43.615] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113528, l='ServerLevel[world]', x=-2858.21, y=195.00, z=-853.79] died: Gearling was slain by Elmegabyt12
+[02May2025 19:13:48.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113554, l='ServerLevel[world]', x=-2855.51, y=195.00, z=-857.12] died: Gearling was slain by Goku177
+[02May2025 19:13:49.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113559, l='ServerLevel[world]', x=-2855.66, y=195.00, z=-856.80] died: Gearling was slain by Goku177
+[02May2025 19:13:49.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113532, l='ServerLevel[world]', x=-2855.95, y=195.06, z=-857.34] died: Gearling was slain by Goku177
+[02May2025 19:13:59.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113666, l='ServerLevel[world]', x=-2836.31, y=195.00, z=-851.72] died: Gearling was slain by Goku177
+[02May2025 19:14:34.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113083, l='ServerLevel[world]', x=-2846.90, y=190.00, z=-848.28] died: Gearling was slain by Goku177
+[02May2025 19:14:35.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113085, l='ServerLevel[world]', x=-2847.71, y=190.00, z=-849.47] died: Gearling was slain by Goku177
+[02May2025 19:14:46.557] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[02May2025 19:14:46.564] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 19:14:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Gearling
+[02May2025 19:15:40.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/113084, l='ServerLevel[world]', x=-2850.46, y=190.00, z=-853.85] died: Gearling was slain by Goku177
+[02May2025 19:19:39.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/114858, l='ServerLevel[world]', x=-2688.40, y=212.00, z=-849.21] died: Gearling was slain by Goku177
+[02May2025 19:19:40.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/114851, l='ServerLevel[world]', x=-2686.91, y=212.00, z=-848.85] died: Gearling was slain by Goku177
+[02May2025 19:23:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Splintering II]
