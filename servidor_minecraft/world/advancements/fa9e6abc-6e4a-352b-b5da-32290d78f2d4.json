@@ -808,6 +808,7 @@
       "minecraft:spider": "2025-04-27 01:43:28 +0000",
       "minecraft:creeper": "2025-04-27 01:43:58 +0000",
       "minecraft:witch": "2025-04-27 22:36:17 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 18:29:25 +0000",
       "minecraft:enderman": "2025-04-27 02:32:17 +0000",
       "minecraft:zombie": "2025-04-27 01:44:48 +0000",
       "minecraft:zombie_villager": "2025-04-30 02:11:22 +0000"
@@ -3090,6 +3091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-02 18:34:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
@@ -3111,6 +3118,12 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 18:37:01 +0000"
     },
     "done": true
   },
@@ -3171,6 +3184,12 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 18:37:01 +0000"
     },
     "done": true
   },
@@ -3336,6 +3355,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 18:37:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-05-02 18:29:06 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
@@ -3363,6 +3394,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:35:42 +0000"
     },
     "done": true
   },
@@ -3429,6 +3466,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 18:37:01 +0000"
     },
     "done": true
   },

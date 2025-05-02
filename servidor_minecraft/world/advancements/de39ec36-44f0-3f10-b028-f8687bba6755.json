@@ -67,8 +67,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-27 03:17:56 +0000",
+      "minecraft:ravager": "2025-05-02 18:36:03 +0000",
       "minecraft:spider": "2025-04-30 01:21:42 +0000",
       "minecraft:creeper": "2025-05-02 14:58:10 +0000",
+      "minecraft:wither_skeleton": "2025-05-02 18:29:05 +0000",
       "minecraft:husk": "2025-04-27 18:53:27 +0000",
       "minecraft:zombie": "2025-04-27 03:14:40 +0000",
       "minecraft:zombie_villager": "2025-04-30 02:12:11 +0000"
@@ -425,6 +427,7 @@
       "porkchop": "2025-04-27 03:58:08 +0000",
       "apple": "2025-04-27 17:02:07 +0000",
       "potato": "2025-04-27 18:27:03 +0000",
+      "pumpkin_pie": "2025-05-02 18:30:47 +0000",
       "mutton": "2025-04-27 18:35:54 +0000",
       "bread": "2025-04-27 03:53:12 +0000",
       "rotten_flesh": "2025-04-27 03:27:55 +0000",
@@ -4137,6 +4140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:02:02 +0000"
@@ -4182,6 +4191,18 @@
   "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
     },
     "done": true
   },
@@ -4251,6 +4272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-02 17:02:02 +0000"
@@ -4281,9 +4308,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:02:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 18:36:03 +0000"
     },
     "done": true
   },
@@ -4344,6 +4383,12 @@
   "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-05-02 17:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-05-02 18:33:16 +0000"
     },
     "done": true
   },
