@@ -2139,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-02 17:09:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-05-02 15:16:05 +0000"
@@ -2154,6 +2160,12 @@
   "alexscaves:alexscaves/tree_star": {
     "criteria": {
       "tree_star": "2025-05-02 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 17:09:31 +0000"
     },
     "done": true
   },
@@ -2262,6 +2274,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-05-02 16:55:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-02 17:09:31 +0000"
     },
     "done": true
   },
