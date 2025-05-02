@@ -8375,3 +8375,34 @@
 [02May2025 17:49:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
 [02May2025 18:03:39.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/84667, l='ServerLevel[world]', x=-4287.61, y=90.00, z=-1648.17] died, message: 'Nitwit was slain by Goku177'
 [02May2025 18:04:17.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[02May2025 18:20:09.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:51880] logged in with entity id 93196 at (-2043.966864608313, 64.0, -728.4479027548734)
+[02May2025 18:20:09.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[02May2025 18:20:09.770] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[02May2025 18:20:40.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[02May2025 18:20:49.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:21:02.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:24:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:24:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:24:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:24:36.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[02May2025 18:24:37.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:24:38.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:25:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Gave 200 experience points to Goku177]
+[02May2025 18:25:16.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:25:21.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:25:29.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[02May2025 18:26:30.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Gave 200 experience points to Tmarsi219]
+[02May2025 18:26:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set Goku177's game mode to Spectator Mode]
+[02May2025 18:28:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set Goku177's game mode to Survival Mode]
+[02May2025 18:28:19.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[02May2025 18:28:23.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[02May2025 18:28:47.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Gave 300 experience points to Tmarsi219]
+[02May2025 18:29:05.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[02May2025 18:29:06.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Welcome To The Machine]
+[02May2025 18:29:10.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Elmegabyt12 to Tmarsi219]
+[02May2025 18:29:10.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Welcome To The Machine]
+[02May2025 18:29:16.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/98396, l='ServerLevel[world]', x=-2850.85, y=212.00, z=-861.97] died: Gearling was slain by Goku177
+[02May2025 18:29:18.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/98361, l='ServerLevel[world]', x=-2848.40, y=212.00, z=-859.94] died: Gearling was slain by Goku177
+[02May2025 18:29:27.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/98383, l='ServerLevel[world]', x=-2846.82, y=212.00, z=-859.94] died: Gearling was slain by Goku177
+[02May2025 18:29:56.315] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 18:29:56.318] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
