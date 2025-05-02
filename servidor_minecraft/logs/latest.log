@@ -8648,3 +8648,4 @@
 [02May2025 21:22:49.810] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
 [02May2025 21:22:49.813] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [02May2025 21:23:20.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/152005, l='ServerLevel[world]', x=-2046.30, y=62.00, z=-727.30] died, message: 'Librarian was slain by Zombie'
+[02May2025 21:23:49.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Zombie
