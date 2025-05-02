@@ -14380,3 +14380,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02May2025 22:32:22.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02May2025 22:32:44.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> piedra
 [02May2025 22:32:54.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> no tengo
+[02May2025 22:37:22.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 22:37:22.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 22:39:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> grasias
+[02May2025 22:39:12.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> dame 1
+[02May2025 22:39:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> grax
+[02May2025 22:42:22.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 22:42:22.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
