@@ -8341,3 +8341,9 @@
 [02May2025 16:58:35.924] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
 [02May2025 16:58:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Elmegabyt12
 [02May2025 16:58:38.478] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 16:59:30.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:51535] logged in with entity id 61844 at (-7314.403101046926, 20.0, -4810.087348803391)
+[02May2025 16:59:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[02May2025 16:59:31.042] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[02May2025 17:00:03.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[02May2025 17:00:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[02May2025 17:01:15.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Goku177 to Elmegabyt12
