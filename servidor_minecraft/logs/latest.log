@@ -8662,3 +8662,13 @@
 [02May2025 22:39:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> grasias
 [02May2025 22:39:12.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> dame 1
 [02May2025 22:39:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Goku177> grax
+[02May2025 22:45:07.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 was kicked for floating a vehicle too long!
+[02May2025 22:45:07.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Flying is not enabled on this server
+[02May2025 22:45:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[02May2025 22:45:13.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:61312] logged in with entity id 170465 at (-2044.9406729456089, 68.42504488246601, -698.2275303666281)
+[02May2025 22:45:13.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[02May2025 22:45:13.859] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[02May2025 22:49:05.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[02May2025 22:49:05.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[02May2025 22:51:23.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [A Seedy Place]
+[02May2025 22:53:01.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [The Parrots and the Bats]
