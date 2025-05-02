@@ -65,6 +65,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-27 03:17:56 +0000",
       "minecraft:spider": "2025-04-30 01:21:42 +0000",
+      "minecraft:creeper": "2025-05-02 14:58:10 +0000",
       "minecraft:husk": "2025-04-27 18:53:27 +0000",
       "minecraft:zombie": "2025-04-27 03:14:40 +0000",
       "minecraft:zombie_villager": "2025-04-30 02:12:11 +0000"
@@ -4049,6 +4050,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-01 02:16:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-01 02:16:02 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rainbow_jelly": {
     "criteria": {
       "gustmaker": "2025-05-01 02:47:57 +0000"
@@ -4061,21 +4074,87 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-05-01 02:16:02 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-05-01 03:02:37 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "has_item": "2025-05-01 02:16:02 +0000"
+      "killed_by_vallumraptor": "2025-05-02 14:56:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-05-02 15:01:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-05-02 15:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 15:12:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-05-02 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 15:22:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-05-02 15:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 15:12:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-05-02 15:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 15:14:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_helmet": {
+    "criteria": {
+      "has_the_recipe": "2025-05-02 15:14:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-05-02 15:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-02 15:22:01 +0000"
     },
     "done": true
   },

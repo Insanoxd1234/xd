@@ -388,7 +388,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-02 15:38:51 +0000",
       "cooked_beef": "2025-04-27 17:32:44 +0000",
+      "porkchop": "2025-05-02 14:56:43 +0000",
       "apple": "2025-04-27 16:39:14 +0000",
       "potato": "2025-04-27 03:54:20 +0000",
       "mutton": "2025-04-27 03:30:06 +0000",
@@ -2058,15 +2060,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-01 02:52:53 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-05-01 02:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-01 02:52:53 +0000"
     },
     "done": true
   },
@@ -2079,6 +2081,108 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-01 02:52:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-05-02 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-05-02 15:07:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-05-02 15:39:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_vallumraptor": "2025-05-02 15:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-05-02 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-02 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:12:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-05-02 15:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-02 15:12:38 +0000"
     },
     "done": true
   },
