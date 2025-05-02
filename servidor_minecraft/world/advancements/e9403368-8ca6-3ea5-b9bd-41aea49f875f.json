@@ -3480,5 +3480,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2025-05-02 20:32:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
