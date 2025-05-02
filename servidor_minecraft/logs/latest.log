@@ -8331,3 +8331,13 @@
 [02May2025 16:27:25.609] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
 [02May2025 16:27:25.618] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [02May2025 16:27:26.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Town of Bedrock]
+[02May2025 16:29:01.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Tyrant King]
+[02May2025 16:29:01.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Best Friends Forever]
+[02May2025 16:33:23.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:waystone'
+[02May2025 16:33:23.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e Goku177 minecraft:waystone<--[HERE]
+[02May2025 16:44:44.216] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[02May2025 16:44:44.217] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[02May2025 16:58:35.923] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[02May2025 16:58:35.924] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[02May2025 16:58:38.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Elmegabyt12
+[02May2025 16:58:38.478] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
