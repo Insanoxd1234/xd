@@ -38,6 +38,7 @@
       "minecraft:stony_shore": "2025-04-27 04:07:14 +0000",
       "minecraft:snowy_taiga": "2025-04-27 03:25:57 +0000",
       "minecraft:grove": "2025-04-27 04:26:04 +0000",
+      "minecraft:swamp": "2025-05-02 19:04:33 +0000",
       "minecraft:jagged_peaks": "2025-04-27 18:16:11 +0000",
       "minecraft:cold_ocean": "2025-04-27 03:41:49 +0000",
       "minecraft:forest": "2025-04-27 18:13:39 +0000",
@@ -1713,6 +1714,7 @@
       "minecraft:skeleton": "2025-04-29 01:15:43 +0000",
       "minecraft:ravager": "2025-05-02 18:41:45 +0000",
       "minecraft:spider": "2025-05-02 16:09:12 +0000",
+      "minecraft:creeper": "2025-05-02 19:05:22 +0000",
       "minecraft:zombie": "2025-04-27 17:44:11 +0000",
       "minecraft:drowned": "2025-04-29 01:58:08 +0000"
     },
@@ -2642,9 +2644,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 19:00:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2025-05-02 19:01:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-05-02 18:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 19:00:12 +0000"
     },
     "done": true
   },
@@ -2666,6 +2686,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 19:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-05-02 18:42:20 +0000"
@@ -2675,6 +2701,18 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-02 18:41:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-02 19:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-02 19:00:12 +0000"
     },
     "done": true
   },
