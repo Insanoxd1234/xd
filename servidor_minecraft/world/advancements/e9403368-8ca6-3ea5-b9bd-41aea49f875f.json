@@ -3507,6 +3507,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-05-03 03:19:47 +0000",
       "minecraft:cow": "2025-05-02 22:53:01 +0000",
       "minecraft:chicken": "2025-05-02 23:05:00 +0000"
     },
@@ -3527,6 +3528,18 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-02 22:53:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-05-03 03:06:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2025-05-03 03:03:17 +0000"
     },
     "done": true
   },
