@@ -2572,3 +2572,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03May2025 03:25:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
 [03May2025 03:25:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
 [03May2025 03:27:20.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[03May2025 03:27:43.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:27:43.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 03:30:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[03May2025 03:30:51.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -9.255856092819158,2.0569479217357554,-3.2027248038909875
+[03May2025 03:31:01.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -9.271236214715827,0.0,-5.710697435817565
+[03May2025 03:31:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[03May2025 03:31:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[03May2025 03:31:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[03May2025 03:32:43.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:32:43.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 03:33:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[03May2025 03:33:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[03May2025 03:33:26.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[03May2025 03:33:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[03May2025 03:34:03.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
+[03May2025 03:34:03.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[03May2025 03:37:43.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 03:37:43.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

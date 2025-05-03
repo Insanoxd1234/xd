@@ -3531,6 +3531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 03:24:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_subterranodon": {
     "criteria": {
       "killed": "2025-05-03 03:06:05 +0000"
@@ -3540,6 +3546,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2025-05-03 03:03:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-03 03:24:58 +0000"
     },
     "done": true
   },

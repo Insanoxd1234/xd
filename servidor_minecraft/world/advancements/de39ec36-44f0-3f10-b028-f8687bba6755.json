@@ -4555,5 +4555,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "helmet": "2025-05-03 03:33:11 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
