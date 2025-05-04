@@ -1,136 +1,102 @@
-[03May2025 02:46:56.769] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[03May2025 02:46:56.773] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
-[03May2025 02:46:57.686] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03May2025 02:46:57.756] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/xd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03May2025 02:46:58.063] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[03May2025 02:46:58.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03May2025 02:46:58.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03May2025 02:46:58.070] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03May2025 02:46:58.307] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[03May2025 02:47:00.698] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03May2025 02:47:00.830] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[03May2025 02:47:00.832] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03May2025 02:47:00.844] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[03May2025 02:47:02.677] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[03May2025 02:47:02.679] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[03May2025 02:47:02.679] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
-[03May2025 02:47:11.783] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[04May2025 01:04:27.458] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04May2025 01:04:27.466] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[04May2025 01:04:28.532] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04May2025 01:04:28.595] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/xd/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04May2025 01:04:28.913] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04May2025 01:04:28.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04May2025 01:04:28.916] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04May2025 01:04:28.918] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/xd/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04May2025 01:04:29.144] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[04May2025 01:04:31.736] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04May2025 01:04:31.885] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[04May2025 01:04:31.888] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04May2025 01:04:31.907] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[04May2025 01:04:33.752] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[04May2025 01:04:33.754] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[04May2025 01:04:33.754] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[04May2025 01:04:43.634] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[03May2025 02:47:13.855] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03May2025 02:47:13.919] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[03May2025 02:47:13.919] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[03May2025 02:47:14.740] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@a741f59 has been registered twice for the same name treechop:chop_wood.
-[03May2025 02:47:17.974] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[03May2025 02:47:18.969] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
-[03May2025 02:47:19.728] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03May2025 02:47:19.730] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03May2025 02:47:19.819] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[03May2025 02:47:19.827] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[03May2025 02:47:19.845] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[03May2025 02:47:19.850] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[03May2025 02:47:19.854] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[03May2025 02:47:19.857] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[03May2025 02:47:19.859] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[03May2025 02:47:19.861] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[03May2025 02:47:20.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.20.1-1.0.7 Target: null
-[03May2025 02:47:20.252] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03May2025 02:47:20.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[03May2025 02:47:20.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[03May2025 02:47:20.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
-[03May2025 02:47:20.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03May2025 02:47:20.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[03May2025 02:47:22.883] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03May2025 02:47:25.073] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/xd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
-[03May2025 02:47:25.073] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/xd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
-[03May2025 02:47:26.626] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03May2025 02:47:27.627] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[03May2025 02:47:27.734] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
-[03May2025 02:47:27.899] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2935 advancements
-[03May2025 02:47:27.917] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[03May2025 02:47:27.922] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
-[03May2025 02:47:27.924] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[03May2025 02:47:29.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03May2025 02:47:29.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03May2025 02:47:29.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03May2025 02:47:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03May2025 02:47:29.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03May2025 02:47:29.642] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03May2025 02:47:29.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03May2025 02:47:29.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03May2025 02:47:29.740] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03May2025 02:47:29.740] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03May2025 02:47:29.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03May2025 02:47:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03May2025 02:47:39.203] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.206] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.207] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.207] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.209] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.209] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.210] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.214] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03May2025 02:47:39.592] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[03May2025 02:47:40.092] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[03May2025 02:47:40.592] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[03May2025 02:47:40.614] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6023 ms
-[03May2025 02:47:40.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.859s)! For help, type "help"
-[03May2025 02:47:40.674] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03May2025 02:47:40.679] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[03May2025 02:47:40.680] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[03May2025 02:48:38.043] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[03May2025 02:48:38.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:57106] logged in with entity id 581 at (-2012.9377001870596, 64.79673560066871, -721.3308191492873)
-[03May2025 02:48:38.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
-[03May2025 02:48:38.358] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
-[03May2025 02:48:40.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
-[03May2025 02:49:25.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:58932] logged in with entity id 998 at (-2045.5258111780438, 64.0, -717.2404626808453)
-[03May2025 02:49:25.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
-[03May2025 02:49:25.172] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
-[03May2025 02:51:30.808] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
-[03May2025 02:51:30.822] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
-[03May2025 02:51:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 fell from a high place
-[03May2025 03:06:05.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Prehistoric Elytra]
-[03May2025 03:09:30.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Goku177's game mode to Spectator Mode
-[03May2025 03:09:38.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Goku177 a server operator
-[03May2025 03:10:05.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -8.92477817666986,0.0,-6.238293825613255
-[03May2025 03:10:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:10:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:11:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:11:38.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:11:52.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:12:20.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:13:32.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:13:32.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Getting an Upgrade]
-[03May2025 03:13:55.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:14:18.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:15:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:16:32.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -8.440439576986137,-0.008771626946966649,-6.733715930815833
-[03May2025 03:17:24.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 moved too quickly! 3.903981187092768,0.0,-9.385279804939046
-[03May2025 03:19:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:20:09.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:20:17.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:20:53.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:21:46.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:21:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:22:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:22:20.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:22:41.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:22:50.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:23:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:23:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:25:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:25:37.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:27:20.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:30:00.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:30:51.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -9.255856092819158,2.0569479217357554,-3.2027248038909875
-[03May2025 03:31:01.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -9.271236214715827,0.0,-5.710697435817565
-[03May2025 03:31:15.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:31:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
-[03May2025 03:31:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:33:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
-[03May2025 03:33:24.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
-[03May2025 03:33:26.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
-[03May2025 03:33:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
-[03May2025 03:34:03.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
-[03May2025 03:34:03.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[04May2025 01:04:45.591] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04May2025 01:04:45.699] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04May2025 01:04:45.699] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04May2025 01:04:46.272] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@3065a6ee has been registered twice for the same name treechop:chop_wood.
+[04May2025 01:04:49.602] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[04May2025 01:04:50.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://maxhenkel.de/update/trade_cycling.json
+[04May2025 01:04:51.299] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04May2025 01:04:51.301] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04May2025 01:04:51.367] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[04May2025 01:04:51.379] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[04May2025 01:04:51.400] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[04May2025 01:04:51.408] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[04May2025 01:04:51.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[04May2025 01:04:51.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[04May2025 01:04:51.412] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[04May2025 01:04:51.413] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[04May2025 01:04:52.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: UP_TO_DATE Current: 1.20.1-1.0.7 Target: null
+[04May2025 01:04:52.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[04May2025 01:04:52.501] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[04May2025 01:04:52.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[04May2025 01:04:52.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[04May2025 01:04:52.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04May2025 01:04:52.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[04May2025 01:04:55.762] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04May2025 01:04:58.268] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/xd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/assets/.mcassetsroot' uses unexpected schema
+[04May2025 01:04:58.268] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/xd/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23155!/data/.mcassetsroot' uses unexpected schema
+[04May2025 01:05:00.265] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[04May2025 01:05:01.543] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[04May2025 01:05:01.654] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[04May2025 01:05:01.819] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2935 advancements
+[04May2025 01:05:01.829] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[04May2025 01:05:01.833] [main/ERROR] [top.theillusivec4.curios.Curios/]: talisman is not a registered slot type!
+[04May2025 01:05:01.834] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[04May2025 01:05:03.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04May2025 01:05:03.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04May2025 01:05:03.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04May2025 01:05:03.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04May2025 01:05:03.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04May2025 01:05:03.356] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04May2025 01:05:03.446] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04May2025 01:05:03.447] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04May2025 01:05:03.447] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04May2025 01:05:03.447] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04May2025 01:05:03.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04May2025 01:05:07.040] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[04May2025 01:05:07.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04May2025 01:05:08.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:08.855] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:08.869] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:09.240] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:09.742] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:10.240] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:10.764] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:11.239] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:11.739] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:12.239] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04May2025 01:05:12.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[04May2025 01:05:12.899] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5161 ms
+[04May2025 01:05:12.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.437s)! For help, type "help"
+[04May2025 01:05:12.941] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04May2025 01:05:12.945] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[04May2025 01:05:12.946] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[04May2025 01:05:43.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19d5309b[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:61326) lost connection: Disconnected
+[04May2025 01:05:48.503] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04May2025 01:05:48.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:61330] logged in with entity id 580 at (-2045.9827313483163, 64.0, -711.744734865227)
+[04May2025 01:05:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[04May2025 01:05:48.932] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[04May2025 01:05:50.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04May2025 01:06:47.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:11:41.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:53470] logged in with entity id 1652 at (-2043.590347276846, 64.0, -707.2049461621427)
+[04May2025 01:11:41.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[04May2025 01:11:41.518] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[04May2025 01:12:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Lorem Ipsum]
+[04May2025 01:12:07.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 01:12:39.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:12:59.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [The Journey Begins]
+[04May2025 01:13:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 01:13:47.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 was kicked for floating a vehicle too long!
+[04May2025 01:13:47.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
+[04May2025 01:13:47.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[04May2025 01:13:48.010] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04May2025 01:14:01.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:53497] logged in with entity id 2122 at (-2054.399637935816, 77.3170146407454, -714.0571125852669)
+[04May2025 01:14:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[04May2025 01:14:01.993] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)

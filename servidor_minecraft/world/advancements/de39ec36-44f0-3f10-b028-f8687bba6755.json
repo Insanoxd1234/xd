@@ -4531,12 +4531,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2025-05-03 03:13:47 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-05-03 03:11:46 +0000"
@@ -4555,11 +4549,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-05-03 03:13:47 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
       "helmet": "2025-05-03 03:33:11 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-05-04 01:09:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

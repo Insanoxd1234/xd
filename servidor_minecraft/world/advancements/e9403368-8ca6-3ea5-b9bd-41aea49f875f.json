@@ -3531,9 +3531,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_bone_meal": "2025-05-03 03:24:58 +0000"
+      "has_the_recipe": "2025-05-03 03:03:17 +0000"
     },
     "done": true
   },
@@ -3543,9 +3543,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_the_recipe": "2025-05-03 03:03:17 +0000"
+      "has_bone_meal": "2025-05-03 03:24:58 +0000"
     },
     "done": true
   },
