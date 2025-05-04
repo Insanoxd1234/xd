@@ -103,3 +103,185 @@
 [04May2025 01:18:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
 [04May2025 01:18:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
 [04May2025 01:21:46.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Your First Receptacle]
+[04May2025 01:33:18.484] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -4531 -56 6225 in 1s
+[04May2025 01:33:27.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:33:52.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 moved too quickly! -10.807152911049798,1.3023837973659056,1.2182945260099132
+[04May2025 01:34:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:35:36.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:36:07.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:36:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:37:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Jaws]
+[04May2025 01:38:27.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:38:32.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:39:14.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 01:39:22.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:39:31.886] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04May2025 01:39:31.888] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04May2025 01:39:31.889] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04May2025 01:39:31.889] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04May2025 01:39:31.889] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04May2025 01:39:31.907] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04May2025 01:39:31.907] [Worker-Main-44/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04May2025 01:39:53.340] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[04May2025 01:39:53.341] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[04May2025 01:39:54.831] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[04May2025 01:41:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 01:41:50.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 01:41:57.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5679, y=57, z=1987} but found not block entity block Block{minecraft:water}[level=2] at location
+[04May2025 01:41:57.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-5679, y=57, z=1987}
+[04May2025 01:41:57.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5677, y=57, z=1985} but found not block entity block Block{minecraft:water}[level=4] at location
+[04May2025 01:41:57.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=4] but failed at location BlockPos{x=-5677, y=57, z=1985}
+[04May2025 01:41:57.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5678, y=57, z=1985} but found not block entity block Block{minecraft:water}[level=3] at location
+[04May2025 01:41:57.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=-5678, y=57, z=1985}
+[04May2025 01:41:57.065] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5652, y=57, z=1987} but found not block entity block Block{minecraft:water}[level=2] at location
+[04May2025 01:41:57.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-5652, y=57, z=1987}
+[04May2025 01:41:57.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5662, y=57, z=1991} but found not block entity block Block{minecraft:water}[level=3] at location
+[04May2025 01:41:57.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=-5662, y=57, z=1991}
+[04May2025 01:41:57.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-5685, y=57, z=1989} but found not block entity block Block{minecraft:water}[level=2] at location
+[04May2025 01:41:57.109] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=2] but failed at location BlockPos{x=-5685, y=57, z=1989}
+[04May2025 01:42:20.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 01:43:31.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15492, l='ServerLevel[world]', x=-4714.65, y=123.00, z=2396.42] died, message: 'Unemployed was slain by Fire Dragon'
+[04May2025 01:43:38.713] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15515, l='ServerLevel[world]', x=-4693.83, y=125.99, z=2401.81] died, message: 'Unemployed was slain by Fire Dragon'
+[04May2025 01:43:51.919] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15494, l='ServerLevel[world]', x=-4678.30, y=122.75, z=2390.51] died, message: 'Unemployed was slain by Fire Dragon'
+[04May2025 01:43:57.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15460, l='ServerLevel[world]', x=-4659.84, y=106.00, z=2392.36] died, message: 'Unemployed hit the ground too hard whilst trying to escape Fire Dragon'
+[04May2025 01:44:05.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15459, l='ServerLevel[world]', x=-4666.70, y=127.00, z=2380.67] died, message: 'Unemployed was slain by Fire Dragon'
+[04May2025 01:44:14.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15461, l='ServerLevel[world]', x=-4665.39, y=126.00, z=2381.38] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[04May2025 01:44:34.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15491, l='ServerLevel[world]', x=-4670.35, y=120.00, z=2359.77] died, message: 'Unemployed burned to death'
+[04May2025 01:45:21.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Where Is The Stone Pen?]
+[04May2025 01:47:20.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has reached the goal [Fortuitous Militia]
+[04May2025 01:49:18.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Magic Writing]
+[04May2025 01:53:37.879] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[04May2025 01:53:43.658] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[04May2025 01:54:24.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has completed the challenge [Turtle-ology Majors Be Like]
+[04May2025 01:55:21.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [What Happens in Las Vegas...]
+[04May2025 01:56:00.219] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04May2025 01:56:00.220] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[04May2025 02:01:57.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elmegabyt12 lost connection: Disconnected
+[04May2025 02:01:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 left the game
+[04May2025 02:03:38.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:54916] logged in with entity id 31840 at (-2033.6439288081094, 62.0, -680.5956482904596)
+[04May2025 02:03:38.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[04May2025 02:03:38.364] [Server thread/INFO] [Jade/]: Syncing config to Elmegabyt12 (e9403368-8ca6-3ea5-b9bd-41aea49f875f)
+[04May2025 02:08:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:08:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:11:11.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:12:04.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:12:25.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:12:44.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:13:39.855] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at -2096 -56 8528 in 0s
+[04May2025 02:15:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:15:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:15:46.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:16:40.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:19:20.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:19:29.645] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04May2025 02:19:29.646] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04May2025 02:19:29.646] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04May2025 02:19:29.646] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04May2025 02:19:29.646] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04May2025 02:19:29.653] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[04May2025 02:19:29.653] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[04May2025 02:19:29.654] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[04May2025 02:19:29.654] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[04May2025 02:19:29.655] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[04May2025 02:19:29.655] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[04May2025 02:19:30.382] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04May2025 02:19:30.382] [Worker-Main-48/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04May2025 02:19:36.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:51336] logged in with entity id 45208 at (-2044.1379680233954, 64.0, -722.8267153378233)
+[04May2025 02:19:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[04May2025 02:19:36.939] [Server thread/INFO] [Jade/]: Syncing config to Tmarsi219 (fa9e6abc-6e4a-352b-b5da-32290d78f2d4)
+[04May2025 02:19:42.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45090, l='ServerLevel[world]', x=-2113.63, y=70.00, z=6762.72] died, message: 'Unemployed suffocated in a wall'
+[04May2025 02:19:42.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45091, l='ServerLevel[world]', x=-2115.63, y=70.00, z=6761.07] died, message: 'Unemployed suffocated in a wall'
+[04May2025 02:19:42.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45092, l='ServerLevel[world]', x=-2115.52, y=70.00, z=6757.54] died, message: 'Unemployed suffocated in a wall'
+[04May2025 02:19:42.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:19:57.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:20:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:20:53.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set the weather to rain & thunder]
+[04May2025 02:21:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[04May2025 02:21:53.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:22:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[04May2025 02:22:08.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:22:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:22:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:22:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:22:28.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 02:23:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Elmegabyt12 to Goku177]
+[04May2025 02:23:35.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 1.4056815646868017,0.0,-10.650968867294978
+[04May2025 02:24:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:24:50.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to Tmarsi219]
+[04May2025 02:24:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to Goku177]
+[04May2025 02:25:03.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Goku177 to Tmarsi219]
+[04May2025 02:25:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:25:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:25:29.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:25:57.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Elmegabyt12 to Goku177]
+[04May2025 02:26:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to Elmegabyt12]
+[04May2025 02:27:31.612] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:27:31.621] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:27:38.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Lightning Dragon
+[04May2025 02:27:51.551] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[04May2025 02:27:51.558] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[04May2025 02:28:01.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Lightning Dragon
+[04May2025 02:28:28.700] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:28:28.707] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:28:34.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was struck with lightning by Lightning Dragon
+[04May2025 02:28:34.652] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:28:34.660] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:28:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Lightning Dragon
+[04May2025 02:28:42.053] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[04May2025 02:28:42.070] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[04May2025 02:28:48.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was struck with lightning by Lightning Dragon
+[04May2025 02:29:15.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Applied effect Night Vision to 3 targets]
+[04May2025 02:29:23.301] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:29:23.310] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:29:29.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was slain by Lightning Dragon
+[04May2025 02:29:40.852] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[04May2025 02:29:40.862] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[04May2025 02:29:46.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was slain by Lightning Dragon
+[04May2025 02:30:18.153] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:30:18.170] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:30:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Applied effect Night Vision to 3 targets]
+[04May2025 02:30:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was struck with lightning by Lightning Dragon
+[04May2025 02:30:31.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 was kicked for floating too long!
+[04May2025 02:30:31.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Flying is not enabled on this server
+[04May2025 02:30:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[04May2025 02:30:33.799] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:30:33.811] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:30:34.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to Tmarsi219]
+[04May2025 02:30:38.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:49705] logged in with entity id 55929 at (-2315.715410717774, 7.276104429706824, 6621.818176986626)
+[04May2025 02:30:38.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[04May2025 02:30:38.393] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[04May2025 02:30:40.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was struck with lightning by Lightning Dragon
+[04May2025 02:31:08.352] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[04May2025 02:31:08.362] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[04May2025 02:31:14.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was struck with lightning by Lightning Dragon
+[04May2025 02:31:18.302] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:31:18.310] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:31:18.852] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:31:18.861] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:31:24.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Chain Death]
+[04May2025 02:31:24.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was struck with lightning by Lightning Dragon
+[04May2025 02:31:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was struck with lightning by Lightning Dragon
+[04May2025 02:31:31.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Applied effect Night Vision to 3 targets]
+[04May2025 02:31:39.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 was kicked for floating too long!
+[04May2025 02:31:39.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Flying is not enabled on this server
+[04May2025 02:31:39.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[04May2025 02:31:46.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:49717] logged in with entity id 56412 at (-2318.478208774411, 7.450881510603769, 6624.113666007076)
+[04May2025 02:31:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[04May2025 02:31:46.991] [Server thread/INFO] [Jade/]: Syncing config to Goku177 (de39ec36-44f0-3f10-b028-f8687bba6755)
+[04May2025 02:32:16.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[04May2025 02:32:20.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:32:29.801] [Server thread/WARN] [tombstone/]: The death event of the player Goku177 was canceled by another mod
+[04May2025 02:32:29.810] [Server thread/INFO] [tombstone/]: The player Goku177 has successfully been saved
+[04May2025 02:32:35.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 was energized by a dragon
+[04May2025 02:32:36.201] [Server thread/WARN] [tombstone/]: The death event of the player Tmarsi219 was canceled by another mod
+[04May2025 02:32:36.218] [Server thread/INFO] [tombstone/]: The player Tmarsi219 has successfully been saved
+[04May2025 02:32:37.252] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:32:37.263] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:32:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 was energized by Lightning Dragon
+[04May2025 02:32:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was struck with lightning by a dragon
+[04May2025 02:33:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to 3 targets]
+[04May2025 02:33:15.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Creative Mode]
+[04May2025 02:33:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 02:34:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Mother of Dragons]
+[04May2025 02:34:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Mother of Dragons]
+[04May2025 02:34:53.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]

@@ -26,13 +26,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-27 03:37:20 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-04 01:51:32 +0000",
       "minecraft:mushroom_fields": "2025-05-02 17:40:01 +0000",
       "minecraft:taiga": "2025-04-27 04:01:11 +0000",
+      "minecraft:deep_ocean": "2025-05-04 01:52:37 +0000",
+      "minecraft:eroded_badlands": "2025-05-04 02:14:18 +0000",
       "minecraft:frozen_river": "2025-04-27 03:25:27 +0000",
       "minecraft:birch_forest": "2025-04-27 18:25:37 +0000",
       "minecraft:windswept_hills": "2025-04-27 18:26:24 +0000",
+      "minecraft:wooded_badlands": "2025-05-04 01:54:13 +0000",
+      "minecraft:badlands": "2025-05-04 02:11:30 +0000",
+      "minecraft:savanna_plateau": "2025-05-04 02:14:39 +0000",
       "minecraft:beach": "2025-04-27 04:26:19 +0000",
+      "minecraft:dark_forest": "2025-05-04 01:39:56 +0000",
       "minecraft:river": "2025-04-27 04:40:37 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-04 01:37:26 +0000",
       "minecraft:snowy_plains": "2025-04-27 03:26:06 +0000",
       "minecraft:stony_shore": "2025-04-27 03:25:57 +0000",
       "minecraft:snowy_taiga": "2025-04-27 03:11:48 +0000",
@@ -46,14 +54,20 @@
       "minecraft:deep_cold_ocean": "2025-05-02 16:05:06 +0000",
       "minecraft:ice_spikes": "2025-04-27 03:43:52 +0000",
       "minecraft:frozen_ocean": "2025-04-27 03:33:51 +0000",
+      "minecraft:desert": "2025-05-04 01:54:37 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-29 01:39:55 +0000",
       "minecraft:windswept_forest": "2025-05-01 02:41:38 +0000",
+      "minecraft:jungle": "2025-05-04 01:54:00 +0000",
+      "minecraft:ocean": "2025-05-04 01:33:52 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-29 02:18:11 +0000",
       "minecraft:snowy_beach": "2025-04-27 03:25:19 +0000",
       "minecraft:windswept_savanna": "2025-05-02 17:44:01 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-04 01:53:22 +0000",
       "minecraft:flower_forest": "2025-04-27 18:48:41 +0000",
       "minecraft:frozen_peaks": "2025-05-01 02:48:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 18:23:18 +0000",
+      "minecraft:meadow": "2025-05-04 01:43:04 +0000",
+      "minecraft:savanna": "2025-05-04 01:36:57 +0000",
       "minecraft:plains": "2025-04-27 04:21:12 +0000"
     },
     "done": false
@@ -66,10 +80,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-04 01:47:09 +0000",
       "minecraft:skeleton": "2025-04-27 03:17:56 +0000",
       "minecraft:ravager": "2025-05-02 18:36:03 +0000",
       "minecraft:spider": "2025-04-30 01:21:42 +0000",
       "minecraft:creeper": "2025-05-02 14:58:10 +0000",
+      "minecraft:evoker": "2025-05-04 01:47:45 +0000",
       "minecraft:wither_skeleton": "2025-05-02 18:29:05 +0000",
       "minecraft:husk": "2025-04-27 18:53:27 +0000",
       "minecraft:zombie": "2025-04-27 03:14:40 +0000",
@@ -4561,33 +4577,33 @@
     },
     "done": false
   },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-05-04 01:15:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-05-04 01:16:29 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-05-04 01:09:29 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-05-04 01:12:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-05-04 01:12:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 01:15:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
-      "has_brown_wool": "2025-05-04 01:16:29 +0000"
+      "has_upgrade_base": "2025-05-04 01:15:04 +0000"
     },
     "done": true
   },
@@ -4600,12 +4616,6 @@
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 01:15:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-05-04 01:16:29 +0000"
     },
     "done": true
   },
@@ -4666,12 +4676,6 @@
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 01:15:04 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_map": {
-    "criteria": {
-      "cave_map": "2025-05-04 01:12:59 +0000"
     },
     "done": true
   },
@@ -4753,12 +4757,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-05-04 01:12:01 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 01:15:04 +0000"
@@ -4798,6 +4796,102 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-04 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-04 01:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-04 01:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-04 01:16:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-05-04 01:37:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-05-04 01:45:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-04 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-04 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 01:47:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-04 01:49:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/spiked_turtle_shell": {
+    "criteria": {
+      "spiked_turtle_shell": "2025-05-04 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-05-04 01:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-04 01:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-05-04 01:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-04 02:04:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 02:27:33 +0000"
     },
     "done": true
   },
