@@ -42,11 +42,14 @@
       "minecraft:jagged_peaks": "2025-04-27 18:16:11 +0000",
       "minecraft:cold_ocean": "2025-04-27 03:41:49 +0000",
       "minecraft:forest": "2025-04-27 18:13:39 +0000",
+      "minecraft:lush_caves": "2025-05-04 02:36:57 +0000",
       "minecraft:ice_spikes": "2025-04-27 04:01:29 +0000",
       "minecraft:frozen_ocean": "2025-04-27 03:40:22 +0000",
+      "minecraft:desert": "2025-05-04 02:38:32 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-27 03:40:57 +0000",
       "minecraft:ocean": "2025-04-27 18:18:32 +0000",
       "minecraft:snowy_beach": "2025-04-27 03:39:32 +0000",
+      "minecraft:warm_ocean": "2025-05-04 02:42:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-01 03:00:58 +0000",
       "minecraft:meadow": "2025-05-01 02:57:25 +0000",
       "minecraft:savanna": "2025-05-04 02:25:58 +0000",
@@ -3640,9 +3643,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-05-04 02:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-04 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 02:31:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-05-04 02:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 02:30:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-04 02:30:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-05-04 02:44:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-05-04 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-04 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-05-04 02:44:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-04 02:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-05-04 02:33:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-05-04 02:33:56 +0000"
     },
     "done": true
   },

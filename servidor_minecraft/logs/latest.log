@@ -285,3 +285,86 @@
 [04May2025 02:34:05.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Mother of Dragons]
 [04May2025 02:34:21.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Mother of Dragons]
 [04May2025 02:34:53.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:35:09.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:35:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[04May2025 02:35:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:36:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:36:21.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:36:28.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:36:40.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:36:41.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:36:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:36:56.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Goku177 to Tmarsi219]
+[04May2025 02:36:57.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 3 entities to Tmarsi219]
+[04May2025 02:37:10.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Night Vision to 3 targets]
+[04May2025 02:37:15.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> w
+[04May2025 02:37:45.102] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:37:45.114] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:37:53.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:37:59.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Fire Dragon
+[04May2025 02:38:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Applied effect Strength to Tmarsi219]
+[04May2025 02:38:32.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[04May2025 02:38:39.563] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[04May2025 02:38:39.564] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[04May2025 02:39:21.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:40:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:41:01.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:07.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:08.380] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:09.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:12.473] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:13.920] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:14.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:15.266] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:16.841] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:18.672] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:20.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:20.754] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:21.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:24.871] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:26.295] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:26.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:27.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:41:27.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[04May2025 02:41:31.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:31.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[04May2025 02:41:32.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:33.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:35.609] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:37.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:38.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 02:41:59.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Goku177 to Tmarsi219]
+[04May2025 02:42:04.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:42:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Goku177 to Tmarsi219]
+[04May2025 02:42:50.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 02:42:52.347] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[04May2025 02:42:52.348] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[04May2025 02:42:52.348] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[04May2025 02:43:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [It's an Emu!!!]
+[04May2025 02:43:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [Beyond the Sea]
+[04May2025 02:43:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Spectator Mode]
+[04May2025 02:43:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Goku177 to Tmarsi219]
+[04May2025 02:43:44.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [Shell City]
+[04May2025 02:44:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [Shell City]
+[04May2025 02:44:03.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Teleported Elmegabyt12 to Goku177]
+[04May2025 02:44:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has reached the goal [Beyond the Sea]
+[04May2025 02:44:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Shell City]
+[04May2025 02:44:24.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.07489626678716377,0.0,-10.687179726354316
+[04May2025 02:44:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Goku177: Set own game mode to Survival Mode]
+[04May2025 02:44:24.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[04May2025 02:44:26.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.819970817281046,0.0,-10.84672060823641
+[04May2025 02:44:29.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.7908918769921911,0.0,-10.462059185842918
+[04May2025 02:44:32.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.7908918769921911,0.0,-10.462059185842918
+[04May2025 02:44:35.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 0.7660723874269024,0.0,-10.050394749777297
+[04May2025 02:44:38.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 2.1387614554050742,0.0,-10.336303521404261
+[04May2025 02:44:40.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 3.164566182420913,0.0,-9.652518703805981
+[04May2025 02:44:48.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 1.101756406282675,0.0,-10.285488330735461
+[04May2025 02:45:00.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -0.7716995721530111,0.0,-10.229384009939167
+[04May2025 02:45:01.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[04May2025 02:45:06.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! 5.380849570722148,0.0,-9.545480483773645
+[04May2025 02:45:09.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 moved too quickly! -1.012292492157485,1.4619287620918229,-10.597170024871502
+[04May2025 02:45:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[04May2025 02:45:37.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported 3 entities to Tmarsi219]
+[04May2025 02:45:40.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Creative Mode]
+[04May2025 02:45:45.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has reached the goal [I Am Become Death]
